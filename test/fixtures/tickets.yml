@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  token: ABC-123-ABC-123-ABC
+  department: MyString
+  subject: MyString
+  text: MyString
+
+two:
+  token: ABC-124-ABC-123-ABC
+  department: MyString
+  subject: MyString
+  text: MyString
